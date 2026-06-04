@@ -1,0 +1,9 @@
+Software udpate
+
+To do a manual update:
+1. Copy the update file (the .img file in this zip file) to a TF card or USB device root directory.
+2. Goto Settings and choose Software update.
+3. Select local update.
+4. Select the update file from the list and press OK button to start update the system.
+
+* If the update file didn't show in the list, press menu button 8 times to reflesh the list.
